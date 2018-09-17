@@ -7,4 +7,4 @@ spring:
 PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
-env: 11111554
+env: 666666
